@@ -5,6 +5,4 @@
 - 📫 How to reach me ... Instagram: _rafaasevero
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm directioner
-- 
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
