@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me ... Instagram: _rafaasevero
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i know how to be a boat
+- ⚡ Fun fact: I know how to imitate a boat
 
 <!---
 rafaaa0202/rafaaa0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
